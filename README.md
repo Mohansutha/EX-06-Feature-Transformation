@@ -171,6 +171,7 @@ df5["yf_HighNegative"].plot(kind = 'hist')
 ![Ex 6 ds32](https://user-images.githubusercontent.com/94828335/170414363-baed3f2e-a28f-460b-800e-e843a92ae9d5.png)
 
 ##RESULT:
+
 The various feature transformation techniques has been performed on the given datasets and the data are saved to a file.
 
 
